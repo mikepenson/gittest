@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Shanghai£¡
+=======
+Hello Beijing£¡
+>>>>>>> f242dbe5b3f4e5af8c10d75d0576c270803a5089
