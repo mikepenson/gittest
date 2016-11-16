@@ -1,3 +1,4 @@
 This is other text.
 Hello World£¡£¡
 Hello Beijing.
+Hi,Beijing!
